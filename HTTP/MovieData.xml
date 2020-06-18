@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MovieData>
+    <IronManI>
+        <genre>Thriller</genre>
+        <releaseDate>14/04/2008</releaseDate>
+        <rating>7.9</rating>
+    </IronManI>
+    <DoctorStrange>
+        <genre>Action</genre>
+        <releaseDate>28/10/2016</releaseDate>
+        <rating>7.5</rating>
+    </DoctorStrange>
+
+</MovieData>
+/

@@ -1,0 +1,14 @@
+{
+  "Iron Man I":{
+      "genre":"thriller",
+      "release-date":"14/04/2008",
+      "rating":"7,9",
+      "title":"Iron Man I",
+    },
+  "Doctor Strange":{
+    "genre":"Action",
+    "release-date":"28/10/2016",
+    "rating":"7.5",
+    "title":"Doctor Strange",
+  }
+}
